@@ -1,14 +1,12 @@
 Package: hello.rpkg
 Title: Hello World
 Version: 0.0.0.9000
-Authors: person("evp", "", email = "", role = c("aut", "cre"))
+Authors@R: person("Evgeny", "Petrovskiy", email = "ev.petrovsky@gmail.com", role = c("aut", "cre"))
 Description: Learning how to set up R package in a proper way
 Depends: R (>= 3.3.2)
 License: MIT
 Encoding: UTF-8
 LazyData: true
 RoxygenNote: 6.0.1
-Imports:
-    dplyr
 BugReports: https://github.com/EvgenyPetrovsky/hello.rpkg/issues
 Suggests: testthat
