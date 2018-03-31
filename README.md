@@ -1,5 +1,3 @@
-https://travis-ci.org/#
-
 # hello.rpkg
 
 [![Build
