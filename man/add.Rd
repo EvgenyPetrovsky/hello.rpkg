@@ -17,3 +17,7 @@ sum of two numbers: \code{x} and \code{y}
 \description{
 The function works with numbers and does arithmrtic addition
 }
+\examples{
+add(1, 2)
+add(-7, 0)
+}

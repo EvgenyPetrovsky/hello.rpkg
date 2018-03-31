@@ -3,8 +3,9 @@
 #' @param x A number
 #' @param y A number
 #' @return sum of two numbers: \code{x} and \code{y}
-#' @example
+#' @examples
 #' add(1, 2)
+#' add(-7, 0)
 add <- function(x, y) {
   x + y
 }
