@@ -1,15 +1,13 @@
+#' hello.rpkg: A sandbox package for learning purposes
+#'
+#' The package includes content for successful build. It is used to learn
+#' ideas behind package creaion and get some practice
+#'
+#' @docType package
+#' @name hello.rpkg
+NULL
+
 #' Print "Hello World!" text into standard output
 hello <- function () {
   print("Hello World!")
-}
-
-#' Add two numbers
-#' @description The function works with numbers and does arithmrtic addition
-#' @param x A number
-#' @param y A number
-#' @return sum of two numbers: \code{x} and \code{y}
-#' @example
-#' add(1, 2)
-add <- function(x, y) {
-  x + y
 }
