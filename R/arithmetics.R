@@ -1,5 +1,7 @@
 #' Add two numbers
 #' @description The function works with numbers and does arithmrtic addition
+#'
+#' @export
 #' @param x A number
 #' @param y A number
 #' @return sum of two numbers: \code{x} and \code{y}
@@ -13,6 +15,8 @@ add2num <- function(x, y) {
 #' negate number
 #' @description The function negates number passed as a parameter.
 #'   \code{negate(1)} returns \code{-1}
+#'
+#' @export
 #' @param x A number
 #' @return a number with opposite sign
 #' @examples
