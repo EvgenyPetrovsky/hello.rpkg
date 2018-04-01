@@ -4,9 +4,9 @@
 #' @param y A number
 #' @return sum of two numbers: \code{x} and \code{y}
 #' @examples
-#' add(1, 2)
-#' add(-7, 0)
-add <- function(x, y) {
+#' add2num(1, 2)
+#' add2num(-7, 0)
+add2num <- function(x, y) {
   x + y
 }
 
