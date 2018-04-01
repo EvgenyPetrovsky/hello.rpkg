@@ -3,7 +3,6 @@
 #' The package includes content for successful build. It is used to learn
 #' ideas behind package creaion and get some practice
 #'
-#' @export
 #' @docType package
 #' @name hello.rpkg
 NULL
