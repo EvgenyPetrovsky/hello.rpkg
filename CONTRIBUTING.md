@@ -67,7 +67,7 @@ Here are some suggestions:
 
 1. start with writing a test than exposes missing functionality or bug by failing
 1. add fix or new functionality that make test passing
-1. update code documentation
+1. update code documentation; use vignettes when new functionality is complex and users might need guidance
 1. generate documentation; run tests; build project
 
 ### 4. View your changes in action
