@@ -1,5 +1,5 @@
 language: r
 
-before_install:
+before_script:
 - rm LICENSE
 - R -e 'devtools::use_gpl3_license(pkg = ".")'
